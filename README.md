@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AnalizRamos
+- 👋 Hi, I’m Jayda orí
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning CS50 
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on something special
 
 <!---
